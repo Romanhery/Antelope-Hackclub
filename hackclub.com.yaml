@@ -244,6 +244,7 @@ _vercel: #
     values:
       - "vc-domain-verify=1or0.hackclub.com,6342724060dadeb82eb3"
       - "vc-domain-verify=alopb.hackclub.com,c1c84ab0dda83595505e"
+      - "vc-domain-verify=antelope-hackclub.hackclub.com,91b02f16929bc746ef24"
       - "vc-domain-verify=arena.hackclub.com,18d51eef05279bd5822f"
       - "vc-domain-verify=arcade-wrapped.hackclub.com,8266e50fd74e5c046773"
       - "vc-domain-verify=ascend.hackclub.com,5c143e010cb754d62113"
@@ -516,6 +517,9 @@ angelhacksla:
 angelhacksto:
   - type: CNAME
     value: ffa02a6c0ac70a16.vercel-dns-016.com.
+antelope-hackclub: # Slack Id: U0A8QE16KQE # Email: inatlusnamor@gmail.com
+  - type: CNAME
+    value: 33ffe4b21116b254.vercel-dns-017.com.
 anvil: # ascpixi@hackclub.com U082DPCGPST
   octodns:
     cloudflare:
